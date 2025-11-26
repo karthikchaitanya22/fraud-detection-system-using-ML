@@ -11,3 +11,10 @@ notebooks/data/
 *.pickle
 *.pkl
 *.joblib
+
+data/raw/
+notebooks/data/
+*.csv
+*.pickle
+*.pkl
+*.joblib
