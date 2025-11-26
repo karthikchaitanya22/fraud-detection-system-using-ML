@@ -3,3 +3,11 @@ __pycache__/
 .DS_Store
 models/
 data/processed/
+
+
+data/raw/
+notebooks/data/
+*.csv
+*.pickle
+*.pkl
+*.joblib
